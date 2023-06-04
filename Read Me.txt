@@ -1,0 +1,22 @@
+In order to run the development environment of the application one must follow the instructions.
+
+
+_________________________
+
+Preliminary requirements:
+________________________
+
+1.Node.js version 16.13.2 or higher
+2.MongoDB
+
+
+_________________________
+
+Run application steps:
+________________________
+
+1.Make sure the .env file is in the root folder
+2.Run command: "npm install" in the root folder terminal
+3.Run command: "npm install" in the -frontend- folder terminal
+4.Run command: "npm run dev" in the root folder terminal
+
